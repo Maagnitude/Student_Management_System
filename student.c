@@ -3,8 +3,6 @@
 #include <string.h>
 #include "student.h"
 
-// Attention! For save, load, and deleteStudent functions, I got some help from the Stackoverflow.com
-
 //Creates list  by reserving memory and returns a pointer to a list
 list createList() {
     list l = (list) malloc(sizeof(struct listR));

@@ -3,8 +3,6 @@
 #include <string.h>
 #include "student.c"
 
-// Attention! For save, load, and deleteStudent functions, I got some help from the Stackoverflow.com
-
 int main(int argc, char** argv) {
     
     student st;
